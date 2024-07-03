@@ -1,3 +1,34 @@
+# Impact of Referral Program on Revenue Generation
+
+## Project Overview
+
+This project analyzes the impact of a referral program on revenue generation for an e-commerce platform. We use various statistical and causal machine learning techniques to understand how referred customers differ from non-referred customers in terms of purchasing behavior and overall revenue contribution.
+
+## Table of Contents
+
+* [Data Description](#data-description)
+* [Installation](#installation)
+* [Usage](#usage)
+* [Analysis Steps](#analysis-steps)
+* [Key Findings](#key-findings)
+* [Technical Results](#technical-results)
+* [Causal Machine Learning Techniques](#causal-machine-learning-techniques)
+* [Visualizations](#visualizations)
+* [Conclusion](#conclusion)
+* [Future Work](#future-work)
+
+## Data Description
+
+The dataset contains the following information:
+* Customer ID
+* Order Date
+* Order Value
+* Referral Status (Yes/No)
+
+## Installation
+
+To run this project, you'll need Python 3.x and the following libraries:
+pip install pandas numpy matplotlib seaborn scipy sklearn econml
 
 ## Usage
 
